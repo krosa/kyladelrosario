@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Old-fashioned-proofreading-is-still-effective"
+title: "Old fashioned proofreading is still effective"
 author: "Kyla"
 ---
 
