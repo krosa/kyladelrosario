@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I'm Blogging"
+title: "Why I'm blogging"
 author: "Kyla"
 ---
 
