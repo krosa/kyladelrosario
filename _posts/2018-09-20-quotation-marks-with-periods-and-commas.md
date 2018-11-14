@@ -17,4 +17,4 @@ That depends what style of English you follow. If you follow the British style, 
 Hey, I'm Canadian too (eh)! Canadians combine British and American spelling rules. In this case, we follow the American style: periods and commas go inside quotation marks1.
 
 Notes:
-1. "Coping with Quotation Marks." Translation Bureau. September 23, 2015. Accessed September 21, 2018. https://www.btb.termiumplus.gc.ca/tpv2guides/guides/pep/index-fra.html?lang=fra&page=punct_6_coping_quotation_marks.
+1. "Coping with Quotation Marks." Translation Bureau. September 23, 2015. Accessed September 21, 2018. [https://www.btb.termiumplus.gc.ca/tpv2guides/guides/pep/index-fra.html?lang=fra&page=punct_6_coping_quotation_marks.](https://www.btb.termiumplus.gc.ca/tpv2guides/guides/pep/index-fra.html?lang=fra&page=punct_6_coping_quotation_marks)
