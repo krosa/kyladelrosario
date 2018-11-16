@@ -4,12 +4,12 @@ layout: default
 
 <div class="post">
   <div class="post-info">
-    <span>Written by </span>
+    <!-- <span>Written by </span>
     {% if page.author %}
         {{ page.author }}
     {% else %}
         {{ site.author.name }}
-    {% endif %}
+    {% endif %} -->
 
     {% if page.date %}
       <span>Written on </span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
@@ -17,7 +17,7 @@ layout: default
   </div>
 
   <div class="post-categories">
-    {% if site.categories %}
+    {% if page.categories %}
       <span>Categories:&nbsp;</span>
       {% for category in site.categories %}
         {{ category[0] }}
