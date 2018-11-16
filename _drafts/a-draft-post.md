@@ -1,7 +1,5 @@
 ---
 layout: "post"
 title: "Switching from Squarespace to Jekyll"
-author: "Kyla"
+categories: [web design, jekyll]
 ---
-
-I joined Squarespace in 
