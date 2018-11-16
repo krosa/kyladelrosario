@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Old fashioned proofreading is still effective"
-author: "Kyla"
+title: "Old-fashioned proofreading is still effective"
 ---
 
 When I was a co-op student studying media arts and design, my advisors emphasized the importance of including my completed projects in my portfolio. I obeyed but neglected to do something else—document my thought process behind my design.

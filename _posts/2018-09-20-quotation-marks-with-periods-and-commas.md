@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Quotation marks with periods and commas"
-author: "Kyla"
 categories: [writing, editing]
 ---
 
