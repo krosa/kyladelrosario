@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: post
 title: "Quotation marks with periods and commas"
 author: "Kyla"
 ---

@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: post
 title: "Documenting my thought process"
 author: "Kyla"
 ---

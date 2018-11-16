@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: post
 title: "Old fashioned proofreading is still effective"
 author: "Kyla"
 ---

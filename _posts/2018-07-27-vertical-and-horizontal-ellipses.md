@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: post
 title: "Referring to the vertical and horizontal ellipses"
 author: "Kyla"
 ---

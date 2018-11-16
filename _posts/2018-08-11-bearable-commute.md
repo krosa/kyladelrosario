@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: post
 title: "Making my commute more bearable"
 author: "Kyla"
 ---

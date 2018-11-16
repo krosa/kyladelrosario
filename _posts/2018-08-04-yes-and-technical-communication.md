@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: post
 title: "Applying the 'Yes and...' principle to technical communication"
 author: "Kyla"
 ---
