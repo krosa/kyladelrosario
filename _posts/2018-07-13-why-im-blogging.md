@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Why I'm blogging"
+title: Why I'm blogging
+categories: Life
 ---
 
 I journal. I use a fountain pen and glide across the page. Call me an old soul. Blogging, especially daily blogging, has never appealed to me because I'm not on my computer 24/7. I like to step outside and take a walk. I disconnect from social media once in a while.

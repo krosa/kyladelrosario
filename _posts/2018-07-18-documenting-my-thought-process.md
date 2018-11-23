@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Documenting my thought process"
+categories: Documentation
 ---
 
 When I was a co-op student studying media arts and design, my advisors emphasized the importance of including my completed projects in my portfolio. I obeyed but neglected to do something else—document my thought process behind my design.
