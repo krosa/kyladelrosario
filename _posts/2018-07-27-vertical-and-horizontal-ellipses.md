@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Referring to the vertical and horizontal ellipses"
+title: Referring to the vertical and horizontal ellipses
+categories: Documentation
 ---
 
 I'm part of the Write the Docs (WTD) Slack channel, where technical communicators and other professionals who write the docs share ideas and knowledge. Every morning, I open the Slack channel and read the discussions so I can learn something new every day. Recently, one of the members asked how he should refer to the following three-dotted symbols that appear in the graphical user interface (GUI) he's working on:

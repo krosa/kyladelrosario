@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Quotation marks with periods and commas"
-categories: [writing, editing]
+title: Quotation marks with periods and commas
+categories: Writing
 ---
 
 **Q: Should I place my periods and commas inside or outside quotation marks?**

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Documenting my thought process"
+title: Documenting my thought process
 categories: Documentation
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Making my commute more bearable"
+title: Making my commute more bearable
+categories: Life
 ---
 
 There are days when I have to make the hour-and-a-half commute to work (both ways). Though I'm exhausted when I come home, I hardly notice the time when I use these apps:

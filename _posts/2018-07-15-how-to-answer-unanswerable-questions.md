@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answering unanswerable questions
-categories: Work
+categories: Learning
 ---
 
 I avoid saying "I don't know," because this sounds like admitting defeat. I don't want to fake my expertise though. I still want to be honest about my lack of knowledge about a subject. So, I like to emulate my supervisor's response:
