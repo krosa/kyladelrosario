@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Applying the 'Yes and...' principle to technical communication
-categories: Learning
+categories: Lessons
 ---
 
 ## What is "Yes, and…"?
