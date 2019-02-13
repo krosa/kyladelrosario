@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Types of Manual Binding
-categories: [Design]
+categories: Design
 ---
 
 As a technical writer in a small company, you'll be responsible for more than just writing; you may need to design and publish documents as well. The following are different types of binding. Consider the doc's purpose, schedule, and cost when deciding which type of binding to use.
@@ -46,7 +46,7 @@ _Utilizes a smooth round coil to hold pages together. Allows book to lie flat wh
 This type of binding involves threading plastic "comb" rings through rectangular holes punched through the document.
 
 ## Staple stitching
-This involves stapling a document in the upper-left corner of its pages. Typically used for forms
+This involves stapling a document in the upper-left corner of its pages. Typically used for forms and short documents.
 
 **Advantages:**
 * Quick and cost-effective
@@ -59,4 +59,4 @@ This involves stapling a document in the upper-left corner of its pages. Typical
 
 
 ## Chicago screw
-Chicago screw is an uncommon form of binding. It 
+Chicago screw is an uncommon form of binding. It
