@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up Expectations: View vs Read
+title: View vs read
 categories: Lessons
 ---
 
