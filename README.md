@@ -1,2 +1,3 @@
-# krosa.github.io
-My site and attempt at using Jekyll.
+# kyladelrosario.com
+
+kyladelrosario.com is my blog about technical writing, UX design, and other topics I find interesting.
