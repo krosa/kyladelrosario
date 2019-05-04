@@ -4,7 +4,7 @@ title: Categories
 permalink: /categories/
 ---
 
-<div id="archives">
+<!-- <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -20,4 +20,13 @@ permalink: /categories/
     {% endfor %}
   </div>
 {% endfor %}
-</div>
+</div> -->
+
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
