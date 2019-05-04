@@ -45,6 +45,10 @@ _Utilizes a smooth round coil to hold pages together. Allows book to lie flat wh
 ## Cerlox/Cirlox
 This type of binding involves threading plastic "comb" rings through rectangular holes punched through the document.
 
+**Advantages:**
+* Stays open when lying flat
+* Durable
+
 ## Staple stitching
 This involves stapling a document in the upper-left corner of its pages. Typically used for forms and short documents.
 
