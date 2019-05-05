@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About me
 
-I'm a technical writer/UX designer based in Vancouver, Canada. I write and edit documentation that is easy for people to read, understand, and follow.  
+I'm a technical writer/user experience designer who writes and designs documentation that is easy for people to read, understand, and follow.  
 
 When I'm away from my computer, I write in my journal with my growing collection of fountain pens. Whenever possible, I also engage in public storytelling and improv comedy.  
 
