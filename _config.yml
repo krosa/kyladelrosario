@@ -1,10 +1,10 @@
 # Site settings
 title:          Kyla del Rosario
 description:    "Technical Writer/UX Designer"
-url:            "http://krosa.github.io"
+url:            "https://kyladelrosario.com"
 
 # Google Analytics
-# google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-139562288-1
 
 # Author
 author:
