@@ -21,9 +21,24 @@ title: Categories
 permalink: /categories/
  ---
 ```
-3. Embed Phlow's gist in the page.
-```html
-<script src="https://gist.github.com/Phlow/57eb457898e4ac4c4a20.js"></script>
+3. Paste [Phlow's gist](https://gist.github.com/Phlow/57eb457898e4ac4c4a20) in the body of `categories.html`.
+```
+{% comment %}
+#
+#  Change date order by adding '| reversed'
+#  To sort by title or other variables use {% assign sorted_posts = category[1] | sort: 'title' %}
+#
+{% endcomment %}
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+{% assign sorted_posts = category[1] | reversed %}
+<h2 id="{{category[0] | uri_escape | downcase }}">{{category[0] | capitalize}}</H2>
+<ul>
+  {% for post in sorted_posts %}
+ 	<li><a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{  post.title }}</a></li>
+  {% endfor %}
+</ul>
+{% endfor %}
 ```
 
 Modifying this Jekyll theme is one of my favourite activities. It gives me the chance to learn more about this static site generator and then document what I've discovered.
