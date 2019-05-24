@@ -1,6 +1,6 @@
 ---
 layout: post
-type: My mistakes in writing descriptions
+title: My mistakes in writing descriptions
 categories: [Writing, Documentation]
 ---
 
