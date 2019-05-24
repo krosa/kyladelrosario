@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to sort categories alphabetically with Jekyll
-categories: [GitHub, Jekyll, Lessons]
+categories: Jekyll
 ---
 
 When I created my blog using Jekyll, I forked the [Tale](https://github.com/chesterhow/tale/) theme, but I have since customized it to fit my needs. Among other things, I added a categories page. Jekyll provides [support for displaying categories](https://jekyllrb.com/docs/posts/#categories-and-tags), but it doesn't sort them alphabetically. For instance, as of the date of this post, my categories are Books, Documentation, GitHub, Lessons, Life, and Writing. When I initially used the code that Jekyll provided, GitHub ended up at the bottom of my categories list because Jekyll sorted my posts (and the categories they belonged to) in ascending order.

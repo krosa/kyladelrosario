@@ -1,7 +1,7 @@
 ---
 layout: post
 title: View vs read
-categories: Lessons
+categories: Communication
 ---
 
 While browsing through a tutorial online, I came across a link that said, "View guide." The guide could have been a video or an article. I wasn't sure what to expect. Since I was sitting in a quiet café without my headphones, I hesitated to click the link in case it was a video tutorial. Some of them auto-play!
