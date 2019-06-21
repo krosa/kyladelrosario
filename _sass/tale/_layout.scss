@@ -43,16 +43,6 @@ footer,
     text-align: center;
   }
 
-  ul.social-media-list {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  ul.social-media-list li {
-    display: inline-block;
-  }
-
   li {
     @include transition(all .2s ease-out);
     color: $default-color;
@@ -73,6 +63,18 @@ footer,
   a {
     color: $default-color;
     font-family: $sans-serif;
+  }
+}
+
+.social-media-list {
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block;
   }
 }
 
