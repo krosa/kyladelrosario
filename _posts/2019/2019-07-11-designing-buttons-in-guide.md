@@ -4,7 +4,7 @@ title: Designing buttons in a user guide
 categories: Documentation
 ---
 
-Someone on the Write the Docs Slack community asked for advice on designing buttons in a user guide. Her three options were:
+A member of the Write the Docs Slack community asked for advice on designing buttons in a user guide. Her three options were:
 
 1. Quotes (e.g., Click "OK")
 2. Brackets (e.g., Click [OK])
