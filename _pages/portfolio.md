@@ -10,5 +10,5 @@ Most of my work is under a non-disclosure agreement (NDA), so I've listed my sam
 
 ### PDFs
 
-* [MedIT Performance Report 2011](assets/MedIT_PerformanceReport2011.pdf): MedIT's annual performance report.
-* [Videoconferencing Room Cheat Sheet](assets/cheatsheet_IslandMedicalProgram.pdf): a cheatsheet for the Island Medical Program's videoconferencing room.
+* [MedIT Performance Report 2011](krosa.github.io/assets/MedIT_PerformanceReport2011.pdf): MedIT's annual performance report.
+* [Videoconferencing Room Cheat Sheet](krosa.github.io/assets/cheatsheet_IslandMedicalProgram.pdf): a cheatsheet for the Island Medical Program's videoconferencing room.
