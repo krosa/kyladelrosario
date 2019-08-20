@@ -6,7 +6,11 @@ permalink: /portfolio/
 
 ## Samples of my work
 
-Most of my work is under a non-disclosure agreement (NDA), so I've listed my samples here.
+Most of my work is under a non-disclosure agreement (NDA), so I've listed my public samples here.
+
+## Writing
+
+* [Using writing tests when hiring](http://www.writethedocs.org/blog/newsletter-august-2019/) — An article for Write the Docs' August 2019 newsletter.
 
 ### PDFs
 
