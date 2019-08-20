@@ -8,9 +8,10 @@ permalink: /portfolio/
 
 Most of my work is under a non-disclosure agreement (NDA), so I've listed public samples here.
 
-### Writing
+### Writing/Editing
 
 * [Using Writing Tests Hiring](http://www.writethedocs.org/blog/newsletter-august-2019/) — An article for Write the Docs' August 2019 newsletter.
+* [Medium Play README](https://github.com/krosa/medium-play/blob/master/README.md) — README for the open-source extension, Medium Play.
 
 ### PDFs
 
