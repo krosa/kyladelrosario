@@ -10,7 +10,7 @@ Lists are common in technical writing. One of my duties is to instruct readers o
 
 These milk frother instructions came from a [Nespresso Aeroccino manual](https://www.nespresso.com/shared_res/manuals/aeroccino/aero_aero3_112010.pdf).
 
-> **CLEANING**
+> **CLEANING AFTER EVERY USE**
 1. **Remove** from base and dismantle whisk (no tools needed). Note: when you have finished using the Aeroccino 3, switch OFF at the base with the main switch.
 2. **Remove** the seal from the lid to clean both parts. Rinse and clean with a damp cloth.
 3. Jug is **waterproof** but NOT dishwasher safe.
@@ -20,21 +20,25 @@ These milk frother instructions came from a [Nespresso Aeroccino manual](https:/
 
 The list is easy to understand, but the information could be presented in a clearer and more concise way. Here are my suggestions:
 
-* Make the heading more specific.
-* Remove bold words in the procedure.
+* Remove bold words in the list, as emphasizing them isn't necessary.
+* Place the note before the list.
 * Divide step 2 into two steps.
-* Turn step 3 into a caution note and place it before the procedure.
+* Turn step 3 into a caution and place it before the list and note.
 * Divide step 4 into two steps.
+* Edit sentence structure as necessary.
 
 ## Edited list
 
-**CLEANING YOUR AEROCCINO**
+**CLEANING AFTER EVERY USE**
 
-**Caution:** Aeroccino jug is waterproof but not dishwasher safe. Wash by hand.
+**Caution:** Aeroccino 3 is waterproof but not dishwasher safe. Wash by hand.
+
+**Note:** After using Aeroccino 3, switch it off at the base.
+
 1. Remove jug from base and dismantle whisk (no tools needed).
 2. Remove seal from lid.
 3. Rinse and clean seal, lid, and jug.
 4. Clip one whisk on to inner base of jug.
 5. Clip other whisk on to lid or in whisk storage.
 
-Remember, your list must convey information clearly. Write instructions with parallel sentences, remove random emphasis on words, and break down long-winded steps.
+Remember, your list must convey information clearly. Write instructions with parallel sentences, remove random emphasis on words, place important notes before the list, and break down long-winded steps. 
