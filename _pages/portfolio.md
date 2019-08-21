@@ -9,7 +9,7 @@ permalink: /portfolio/
 Most of my work is under a non-disclosure agreement (NDA), so I've listed public samples here.
 
 
-* [Using Writing Tests Hiring](http://www.writethedocs.org/blog/newsletter-august-2019/) — An article for Write the Docs' August 2019 newsletter.
+* [Using Writing Tests When Hiring](http://www.writethedocs.org/blog/newsletter-august-2019/) — An article for Write the Docs' August 2019 newsletter.
 * [Medium Play README](https://github.com/krosa/medium-play/blob/master/README.md) — README for the open-source extension, Medium Play.
 * <a href="/assets/infographic_WhatDoArchitectsDo.pdf">What Do Architects Do?</a> (PDF) — An infographic that illustrates how ARCHHIVE frees up more time for architects.
 * <a href="/assets/MedIT_PerformanceReport2011.pdf">MedIT Performance Report 2011</a> (PDF) — MedIT's annual performance report.
