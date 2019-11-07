@@ -8,6 +8,7 @@ permalink: /portfolio/
 
 Most of my work is under a non-disclosure agreement (NDA), so I've listed public samples here.
 
+* ["You"-sing the second person in documentation](http://www.writethedocs.org/blog/newsletter-november-2019/) — An article for Write the Docs' November 2019 newsletter
 * [Feeling like a fraud and how to deal with it](http://www.writethedocs.org/blog/newsletter-october-2019/) — An article for Write the Docs' October 2019 newsletter
 * [Using writing tests when hiring](http://www.writethedocs.org/blog/newsletter-august-2019/) — An article for Write the Docs' August 2019 newsletter
 * [Medium Play README](https://github.com/krosa/medium-play/blob/master/README.md) — README for the open-source extension, Medium Play
