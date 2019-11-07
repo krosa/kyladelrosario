@@ -12,7 +12,7 @@ Ever since I was a child, I possessed an inherent desire to improve myself and a
 
 ## About this site
 
-I started this site as a blog where I could document my thoughts on writing, editing, designing, and living. I try to learn new things every day, and I'd like to share these with you.
+I started this site as a blog where I could document what I've learned and what I'm currently learning.
 
 ## Contact me
 
