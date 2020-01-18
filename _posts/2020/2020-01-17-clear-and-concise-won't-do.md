@@ -4,7 +4,8 @@ title: Clear and concise won't cut it
 categories: [Life, Writing]
 ---
 
-**Healthy rivalry:** Wanting to be a writer, seeing my partner make that dream come true for himself, thus making you strive harder for success.
+**Healthy rivalry:** Wanting to be a writer, seeing my partner make that dream come true for himself, thus making me strive harder for success.
+
 **Unhealthy rivalry:** Wanting to be the _only_ published writer in a small two-person family.
 
 My partner writes under and hour while listening to music with lyrics. He writes several articles a day, while it takes me a few days to come up with a short story. I can't listen to lyrics. To be fair, he's a journalist, and I'm a short story writer. Journalism and fiction are different, but that doesn't stop me from being irritated at our different pacing. I want to take my time with a story. Savour it. Entertain each idea that pays a visit.
