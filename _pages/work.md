@@ -8,6 +8,7 @@ permalink: /work/
 
 Most of my work is under a non-disclosure agreement (NDA), so I've listed public samples here.
 
+* [How to set priorities on a documentation team](https://www.writethedocs.org/blog/newsletter-february-2020/) — An article for Write the Docs' February 2020 newsletter
 * ["You"-sing the second person in documentation](http://www.writethedocs.org/blog/newsletter-november-2019/) — An article for Write the Docs' November 2019 newsletter
 * [Feeling like a fraud and how to deal with it](http://www.writethedocs.org/blog/newsletter-october-2019/) — An article for Write the Docs' October 2019 newsletter
 * [Using writing tests when hiring](http://www.writethedocs.org/blog/newsletter-august-2019/) — An article for Write the Docs' August 2019 newsletter
