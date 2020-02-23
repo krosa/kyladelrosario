@@ -8,7 +8,7 @@ categories: [Life, Writing]
 
 **Unhealthy rivalry:** Wanting to be the _only_ published writer in a small two-person family.
 
-My partner writes under and hour while listening to music with lyrics. He writes several articles a day, while it takes me a few days to come up with a short story. I can't listen to lyrics. To be fair, he's a journalist, and I'm a short story writer. Journalism and fiction are different, but that doesn't stop me from being irritated at our different pacing. I want to take my time with a story. Savour it. Entertain each idea that pays a visit.
+My partner writes under an hour while listening to music with lyrics. He writes several articles a day, while it takes me a few days to come up with a short story. I can't listen to lyrics. To be fair, he's a journalist, and I'm a short story writer. Journalism and fiction are different, but that doesn't stop me from being irritated at our different pacing. I want to take my time with a story. Savour it. Entertain each idea that pays a visit.
 
 Time to try something different. What if I forego my real-time editing and just focus on getting the words out? As a lover of documentation, I like to deliver information in the clearest and most concise way possible so that people would actually read documentation. However, this hasn't helped me in writing stories.
 
