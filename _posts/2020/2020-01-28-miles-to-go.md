@@ -16,7 +16,7 @@ My work is never done. There's always a new project to complete, a new dream to 
 * Work in a career that I love so it won't feel like work at all
 * Make enough money to help out my family
 * Earn more certifications to improve my technical skills
-* Master another language. I'm currently learning Spanish
+* Master another language
 * Travel to Asia and Europe (when the coronavirus is gone)
 * Get back into old hobbies like improv, calligraphy, and needle felting
 * Be content with what I've accomplished
